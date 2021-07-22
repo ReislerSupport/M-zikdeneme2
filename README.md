@@ -2,7 +2,7 @@
 ## Credits
   •For heroku support [CW4RR10R](https://github.com/CW4RR10R)
 # Main credits goes to repo below 
-### An Fork of [this](https://github.com/tgcallsjs/LemonJamsBot) repository 
+### An Fork of [this](https://github.com/ReislerSupport/M-zikdeneme2) repository 
   
 
 To make this repo compatible with heroku and avoid unnecessary conflicts
@@ -19,7 +19,7 @@ Here is the place where this repo (which you are reading this readme) comes into
 * Enter bot token and websocket url (which we got from the above step)
 * click deploy and sit back until docker finishes the build
 * turn on your dyno (if its off)
-* if everything goes fine you should see something like ```@username is running...``` in the log
+* if everything goes fine you should see something like ```@ReislerSupport is running...``` in the log
 * Voila!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/minatouzuki/Telegram-VC-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ReislerSupport/M-zikdeneme2)
